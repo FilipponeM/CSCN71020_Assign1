@@ -21,8 +21,10 @@ void main() {
 	{
 	case 1:
 		add();
+		exit(1);
 	case 2:
 		subtract();
+		exit(1);
 	}
 
 }
